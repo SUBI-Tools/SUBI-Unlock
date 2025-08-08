@@ -58,6 +58,12 @@ You may not:
 
 ---
 
+## 🔧 Required: Ghostscript
+To use this software, `ghostscript` must be included in the same directory.
+The release `.zip` file already contains the required `ghostscript` folder:
+
+---
+
 ## 👨‍💻 Author
 
 Created by **SUBI (슈퍼브레인)**  
